@@ -1,0 +1,29 @@
+{
+  "name": "qr-studio",
+  "version": "1.0.0",
+  "description": "Modern, fast, and privacy-friendly QR code generator web application.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "qr-code",
+    "qr-generator",
+    "privacy-friendly",
+    "vite",
+    "typescript",
+    "github-pages",
+    "pwa"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "qr-code-styling": "^1.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7"
+  }
+}
